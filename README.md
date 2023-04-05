@@ -1,6 +1,6 @@
-# Success Ryzentosh
+# **Success Ryzentosh**
 
-## Specs
+## **Specs**
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | AMD Ryzen 7 3800X |
